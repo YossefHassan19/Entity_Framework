@@ -14,6 +14,11 @@ namespace Entity_Framework
 
             #endregion
 
+            #region 4. Identify and create the necessary entities from the case study
+
+            //4. Identify and create the necessary entities from the case study
+
+            #endregion
 
         }
     }
