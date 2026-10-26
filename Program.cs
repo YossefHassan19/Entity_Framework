@@ -20,6 +20,12 @@ namespace Entity_Framework
 
             #endregion
 
+            #region 5. Create an appropriate DbContext class
+
+            //5. Create an appropriate DbContext class
+
+            #endregion
+
         }
     }
 }
